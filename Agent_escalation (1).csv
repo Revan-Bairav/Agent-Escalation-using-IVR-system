@@ -1,0 +1,121 @@
+Query,Escalation,Sentiment,Category
+Can I set an expiry date for my survey?,No escalation needed,Positive,Data Collection
+Could you explain how to how do i connect my google analytics account to track survey performance?,Escalation needed,Neutral,Integrations
+I need assistance with account management: what's the process for upgrading from a free to a paid plan?,Escalation needed,Positive,Account Management
+I'm having trouble with pricing and billing: is there a discount for annual billing?,Escalation needed,Negative,Pricing and Billing
+"Can you help me understand how to the survey is loading very slowly for respondents, how can i optimize it?",Escalation needed,Neutral,Technical Issues
+I need assistance with survey creation: how do i add branching logic to my survey?,Escalation needed,Positive,Survey Creation
+How can I prevent duplicate responses?,No escalation needed,Positive,Data Collection
+I'm having trouble with survey distribution: is there a qr code option for sharing surveys?,Escalation needed,Negative,Survey Distribution
+"Can you help me understand how to i was charged twice this month, can you help me understand why?",Escalation needed,Neutral,Pricing and Billing
+I'm confused about data collection: how can i prevent duplicate responses?,Escalation needed,Negative,Data Collection
+Can you help me understand how to can i create a multi-language survey?,Escalation needed,Neutral,Survey Creation
+"I'm confused about pricing and billing: i was charged twice this month, can you help me understand why?",Escalation needed,Negative,Pricing and Billing
+I need assistance with survey distribution: how do i create a custom url for my survey?,Escalation needed,Positive,Survey Distribution
+Is there a QR code option for sharing surveys?,No escalation needed,Positive,Survey Distribution
+Is it possible to set up automated report generation?,No escalation needed,Positive,Results Analysis
+I'm getting a 404 error when trying to access my results,Escalation needed,Negative,Technical Issues
+How do I add branching logic to my survey?,No escalation needed,Positive,Survey Creation
+"I was charged twice this month, can you help me understand why?",Escalation needed,Neutral,Pricing and Billing
+Can you help me understand how to how many question types does surveysparrow offer?,Escalation needed,Neutral,Survey Creation
+"The survey is loading very slowly for respondents, how can I optimize it?",Escalation needed,Positive,Technical Issues
+Can you help me understand how to how do i add branching logic to my survey?,Escalation needed,Neutral,Survey Creation
+I'm confused about integrations: how do i set up the zapier integration?,Escalation needed,Negative,Integrations
+Can you help me understand how to how do i set up the zapier integration?,Escalation needed,Neutral,Integrations
+I'm having trouble with results analysis: how can i create custom reports for specific question types?,Escalation needed,Negative,Results Analysis
+Can you help me understand how to can i use custom css in my survey design?,Escalation needed,Neutral,Survey Creation
+"I'm confused about account management: i need to close my account, what steps should i take?",Escalation needed,Negative,Account Management
+I'm confused about integrations: can i use webhooks to send survey data to our internal systems?,Escalation needed,Negative,Integrations
+Can you help me understand how to can i schedule automated reminder emails for incomplete responses?,Escalation needed,Neutral,Survey Distribution
+I need assistance with integrations: can surveysparrow integrate directly with our crm system?,Escalation needed,Positive,Integrations
+Can you help me understand how to how do i enable partial response saving?,Escalation needed,Neutral,Data Collection
+Is it possible to collect responses offline?,No escalation needed,Positive,Data Collection
+I'm confused about account management: how can i enable two-factor authentication for my account?,Escalation needed,Negative,Account Management
+I'm confused about pricing and billing: how do i update my credit card information?,Escalation needed,Negative,Pricing and Billing
+The email invitations aren't being delivered to some respondents,No escalation needed,Positive,Technical Issues
+I'm confused about data collection: how can i prevent duplicate responses?,Escalation needed,Negative,Data Collection
+I'm confused about survey distribution: what's the best way to share my survey on social media?,Escalation needed,Negative,Survey Distribution
+Can I generate word clouds from open-ended responses?,No escalation needed,Positive,Results Analysis
+I need assistance with account management: what's the process for upgrading from a free to a paid plan?,Escalation needed,Positive,Account Management
+Is there a discount for annual billing?,No escalation needed,Positive,Pricing and Billing
+I'm confused about technical issues: the survey embed code isn't working on my website,Escalation needed,Negative,Technical Issues
+I need assistance with results analysis: is it possible to set up automated report generation?,Escalation needed,Positive,Results Analysis
+Is there an API available for custom integrations?,No escalation needed,Positive,Integrations
+How can I create custom reports for specific question types?,No escalation needed,Positive,Results Analysis
+Can you help me understand how to how do i connect my google analytics account to track survey performance?,Escalation needed,Neutral,Integrations
+I need assistance with survey creation: can i use custom css in my survey design?,Escalation needed,Positive,Survey Creation
+Can you help me understand how to how do i update my credit card information?,Escalation needed,Neutral,Pricing and Billing
+How do I set up the Zapier integration?,No escalation needed,Positive,Integrations
+Could you explain how to can you explain the difference between your pricing tiers?,Escalation needed,Neutral,Pricing and Billing
+I'm confused about survey distribution: is there a qr code option for sharing surveys?,Escalation needed,Negative,Survey Distribution
+I'm having trouble with results analysis: is it possible to set up automated report generation?,Escalation needed,Negative,Results Analysis
+How do I connect my Google Analytics account to track survey performance?,Escalation needed,Positive,Integrations
+I'm having trouble with technical issues: the email invitations aren't being delivered to some respondents,Escalation needed,Negative,Technical Issues
+I'm confused about data collection: how do i enable partial response saving?,Escalation needed,Negative,Data Collection
+Could you explain how to what's the maximum number of responses i can collect?,Escalation needed,Neutral,Data Collection
+I'm having trouble with survey distribution: what's the best way to share my survey on social media?,Escalation needed,Negative,Survey Distribution
+"Could you explain how to the survey is loading very slowly for respondents, how can i optimize it?",Escalation needed,Neutral,Technical Issues
+"I need to close my account, what steps should I take?",Escalation needed,Positive,Account Management
+Could you explain how to is it possible to collect responses offline?,Escalation needed,Neutral,Data Collection
+What's the process for upgrading from a free to a paid plan?,Escalation needed,Positive,Account Management
+I need assistance with data collection: can i set an expiry date for my survey?,Escalation needed,Positive,Data Collection
+I'm having trouble with survey creation: is there a way to randomize question order?,Escalation needed,Negative,Survey Creation
+Can you help me understand how to how do i add team members to my account?,Escalation needed,Neutral,Account Management
+Could you explain how to can i transfer ownership of a survey to another user?,Escalation needed,Neutral,Account Management
+Could you explain how to can i use webhooks to send survey data to our internal systems?,Escalation needed,Neutral,Integrations
+Could you explain how to is there a way to randomize question order?,Escalation needed,Neutral,Survey Creation
+Could you explain how to my custom domain isn't resolving correctly for my surveys,Escalation needed,Neutral,Technical Issues
+Could you explain how to do you offer any special pricing for non-profit organizations?,Escalation needed,Neutral,Pricing and Billing
+Could you explain how to is there a discount for annual billing?,Escalation needed,Neutral,Pricing and Billing
+Can you explain the difference between your pricing tiers?,No escalation needed,Neutral,Pricing and Billing
+Can you help me understand how to how do i create a custom url for my survey?,Escalation needed,Neutral,Survey Distribution
+I'm confused about results analysis: can i generate word clouds from open-ended responses?,Escalation needed,Negative,Results Analysis
+Can you help me understand how to i'm getting a 404 error when trying to access my results,Escalation needed,Negative,Technical Issues
+I'm confused about survey distribution: how can i embed the survey in an email newsletter?,Escalation needed,Negative,Survey Distribution
+I'm having trouble with survey distribution: can i schedule automated reminder emails for incomplete responses?,Escalation needed,Negative,Survey Distribution
+What's the maximum number of responses I can collect?,No escalation needed,Positive,Data Collection
+Could you explain how to how do i add team members to my account?,Escalation needed,Neutral,Account Management
+Could you explain how to how can i enable two-factor authentication for my account?,Escalation needed,Neutral,Account Management
+I need assistance with results analysis: how do i export my survey data to spss format?,Escalation needed,Positive,Results Analysis
+How do I create a custom URL for my survey?,No escalation needed,Positive,Survey Distribution
+Can you help me understand how to can i create a multi-language survey?,Escalation needed,Neutral,Survey Creation
+I'm having trouble with data collection: can i set an expiry date for my survey?,Escalation needed,Negative,Data Collection
+"I'm confused about account management: i need to close my account, what steps should i take?",Escalation needed,Negative,Account Management
+Is there a way to filter responses based on specific criteria?,Escalation needed,Positive,Results Analysis
+How do I export my survey data to SPSS format?,No escalation needed,Positive,Results Analysis
+How can I embed the survey in an email newsletter?,No escalation needed,Positive,Survey Distribution
+Can I create a multi-language survey?,No escalation needed,Positive,Survey Creation
+Can I use custom CSS in my survey design?,No escalation needed,Positive,Survey Creation
+I need assistance with technical issues: i'm getting a 404 error when trying to access my results,Escalation needed,Negative,Technical Issues
+I'm having trouble with integrations: is there an api available for custom integrations?,Escalation needed,Negative,Integrations
+Can you help me understand how to is there an api available for custom integrations?,Escalation needed,Neutral,Integrations
+I'm having trouble with pricing and billing: do you offer any special pricing for non-profit organizations?,Escalation needed,Negative,Pricing and Billing
+What's the best way to share my survey on social media?,Escalation needed,Positive,Survey Distribution
+I need assistance with data collection: what's the maximum number of responses i can collect?,Escalation needed,Positive,Data Collection
+How many question types does SurveySparrow offer?,No escalation needed,Positive,Survey Creation
+Could you explain how to is there a way to filter responses based on specific criteria?,Escalation needed,Neutral,Results Analysis
+Could you explain how to how do i export my survey data to spss format?,Escalation needed,Neutral,Results Analysis
+I'm confused about pricing and billing: can you explain the difference between your pricing tiers?,Escalation needed,Negative,Pricing and Billing
+Can I schedule automated reminder emails for incomplete responses?,No escalation needed,Positive,Survey Distribution
+Could you explain how to the email invitations aren't being delivered to some respondents,Escalation needed,Neutral,Technical Issues
+How can I enable two-factor authentication for my account?,No escalation needed,Positive,Account Management
+I need assistance with integrations: can surveysparrow integrate directly with our crm system?,Escalation needed,Positive,Integrations
+Do you offer any special pricing for non-profit organizations?,No escalation needed,Positive,Pricing and Billing
+Can SurveySparrow integrate directly with our CRM system?,No escalation needed,Positive,Integrations
+Could you explain how to is it possible to collect responses offline?,Escalation needed,Neutral,Data Collection
+I'm confused about technical issues: my custom domain isn't resolving correctly for my surveys,Escalation needed,Negative,Technical Issues
+I'm having trouble with account management: can i transfer ownership of a survey to another user?,Escalation needed,Negative,Account Management
+Can I transfer ownership of a survey to another user?,No escalation needed,Positive,Account Management
+How do I enable partial response saving?,No escalation needed,Positive,Data Collection
+Can I use webhooks to send survey data to our internal systems?,Escalation needed,Positive,Integrations
+My custom domain isn't resolving correctly for my surveys,No escalation needed,Positive,Technical Issues
+I need assistance with results analysis: is there a way to filter responses based on specific criteria?,Escalation needed,Positive,Results Analysis
+I need assistance with survey distribution: how can i embed the survey in an email newsletter?,Escalation needed,Positive,Survey Distribution
+Is there a way to randomize question order?,No escalation needed,Positive,Survey Creation
+The survey embed code isn't working on my website,Escalation needed,Negative,Technical Issues
+How do I update my credit card information?,No escalation needed,Positive,Pricing and Billing
+I need assistance with results analysis: can i generate word clouds from open-ended responses?,Escalation needed,Positive,Results Analysis
+I'm having trouble with survey creation: how many question types does surveysparrow offer?,Escalation needed,Negative,Survey Creation
+Could you explain how to the survey embed code isn't working on my website,Escalation needed,Negative,Technical Issues
+How do I add team members to my account?,No escalation needed,Positive,Account Management
+Could you explain how to how can i create custom reports for specific question types?,Escalation needed,Neutral,Results Analysis
